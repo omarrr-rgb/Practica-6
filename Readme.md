@@ -13,3 +13,6 @@
 
 ### Programacion con el profesor Jonathan MirCha
 (Ramas, js, css, y html)
+
+### Fundamentos de los computadores con la profesora   Rebeca Pantoja
+(Protocolos de IP, y un resumen sobre la historia de internet y las computadoras)
