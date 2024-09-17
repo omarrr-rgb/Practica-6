@@ -10,3 +10,6 @@
 
 ### Algebra con el profesor Hugo Tlahuext
 (cofactores de las matrices, y como sacar determinantes)
+
+### Programacion con el profesor Jonathan MirCha
+(Ramas, js, css, y html)
