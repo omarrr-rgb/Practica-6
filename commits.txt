@@ -1,0 +1,7 @@
+b7a6e13 agregando info de computadores
+bbd4813 agregando info de programacion
+aa05168 agregando info de algebra
+8556cf0 Agregando info de matematicas
+489a6a7  Agregando info de Rama deintroduccion
+db97b28 primer commit
+637e7d7 Primer commit
