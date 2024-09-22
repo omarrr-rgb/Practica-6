@@ -19,4 +19,8 @@
 
 
 
+<<<<<<< HEAD
 "creando la versión 1.0.0 de este repositorio."
+=======
+creando la versión 1.0.0 de este repositorio.
+>>>>>>> dd8e91c2f397f9ebc5a18223e6ffc5a58917c732
