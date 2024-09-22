@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 commit b7a6e13f3f40634fc0fe462c6b997a53a3510452
 Author: omarrr-rgb <alexis99mn@gmail.com>
 Date:   Tue Sep 17 12:43:17 2024 -0600
@@ -39,3 +40,12 @@ Author: omarrr-rgb <alexis99mn@gmail.com>
 Date:   Mon Sep 16 17:08:57 2024 -0600
 
     Primer commit
+=======
+b7a6e13 agregando info de computadores
+bbd4813 agregando info de programacion
+aa05168 agregando info de algebra
+8556cf0 Agregando info de matematicas
+489a6a7  Agregando info de Rama deintroduccion
+db97b28 primer commit
+637e7d7 Primer commit
+>>>>>>> 1f019f1baa25cca15965e9a314bb255873d40fbb
