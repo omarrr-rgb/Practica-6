@@ -1,0 +1,41 @@
+commit b7a6e13f3f40634fc0fe462c6b997a53a3510452
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Tue Sep 17 12:43:17 2024 -0600
+
+    agregando info de computadores
+
+commit bbd48133f1a33fe71388985d53a12af9699a0651
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Tue Sep 17 12:38:41 2024 -0600
+
+    agregando info de programacion
+
+commit aa05168e76dbffe0fc4141b2c3ab3f40c055db84
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Tue Sep 17 12:35:40 2024 -0600
+
+    agregando info de algebra
+
+commit 8556cf0ecb5bd0b433ec06e8416ef405fa0d0bfa
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Tue Sep 17 12:28:56 2024 -0600
+
+    Agregando info de matematicas
+
+commit 489a6a7a0ca62b0e687ffdd9370a07c9b10cbf54
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Tue Sep 17 12:23:48 2024 -0600
+
+     Agregando info de Rama deintroduccion
+
+commit db97b28a210efa132e9eaff4eaa16cd7755ba060
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Mon Sep 16 17:19:10 2024 -0600
+
+    primer commit
+
+commit 637e7d7e345f67c4d53b59d94e532fc85ffcfe76
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Mon Sep 16 17:08:57 2024 -0600
+
+    Primer commit
