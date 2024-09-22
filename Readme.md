@@ -16,3 +16,7 @@
 
 ### Fundamentos de los computadores con la profesora   Rebeca Pantoja
 (Protocolos de IP, y un resumen sobre la historia de internet y las computadoras)
+
+
+
+creando la versión 1.0.0 de este repositorio.
